@@ -36,11 +36,7 @@ The project utilizes a custom-head ResNet50V2 model:
 ## 📊 Performance
 The model exhibits high accuracy and well-balanced F1-scores across all categories. 
 * **Learning Curves:** Training and validation loss show effective convergence.
-* **Confusion Matrix:** High precision in identifying 'normal' cases and distinguishing between tumor types.
-
-## 🚀 How to Run
-1. **Clone the repo:** `git clone https://github.com/YourUsername/your-repo-name.git`
-2. **Install requirements:** `pip install -r requirements.txt`
+* **Confusion Matrix:** High precision in identifying 'normal' cases and distinguishing between tumor types.`
 3. **Run the Notebook:** Open `enhanced-mri-brain-tumor-classification.ipynb` in any Jupyter environment.
 
 ---
